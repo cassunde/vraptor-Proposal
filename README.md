@@ -1,4 +1,4 @@
-# VRaptor Proposal
+# Proposal @ControllerRest
 
 this annotation will basically catch an exception that extends `DefaultExceptionRest` and overrides the response by modifying the following attributes:
 - http code: 500
